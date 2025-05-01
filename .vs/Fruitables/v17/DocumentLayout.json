@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250501103000_CreateProductAndProductImageAndCateories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Migrations\\20250501103000_CreateProductAndProductImageAndCateories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250501102347_CreateProductAndCategiriesAndProductImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Migrations\\20250501102347_CreateProductAndCategiriesAndProductImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250501101823_update-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruitables\\Migrations\\20250501101823_update-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\migrations\\20250430140358_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\migrations\\20250430140358_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|c:\\users\\lenova\\desktop\\fruitables\\fruitables\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB875F1-9203-4D63-8F9D-606255E4B62B}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250501103000_CreateProductAndProductImageAndCateories.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250501103000_CreateProductAndProductImageAndCateories.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Migrations\\20250501103000_CreateProductAndProductImageAndCateories.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250501103000_CreateProductAndProductImageAndCateories.cs",
+              "RelativeToolTip": "Fruitables\\Migrations\\20250501103000_CreateProductAndProductImageAndCateories.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:30:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250501102347_CreateProductAndCategiriesAndProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250501102347_CreateProductAndCategiriesAndProductImage.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Migrations\\20250501102347_CreateProductAndCategiriesAndProductImage.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250501102347_CreateProductAndCategiriesAndProductImage.cs",
+              "RelativeToolTip": "Fruitables\\Migrations\\20250501102347_CreateProductAndCategiriesAndProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:23:47.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250501101823_update-database.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250501101823_update-database.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Migrations\\20250501101823_update-database.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250501101823_update-database.cs",
+              "RelativeToolTip": "Fruitables\\Migrations\\20250501101823_update-database.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:18:23.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\Category.cs",
+              "RelativeToolTip": "Fruitables\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:33:10.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\ProductImage.cs",
+              "RelativeToolTip": "Fruitables\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:31:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\Product.cs",
+              "RelativeToolTip": "Fruitables\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:30:10.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAmwBMBAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T14:06:56.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250430140358_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250430140358_Initial.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Migrations\\20250430140358_Initial.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Migrations\\20250430140358_Initial.cs",
+              "RelativeToolTip": "Fruitables\\Migrations\\20250430140358_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:03:58.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\Slider.cs",
+              "RelativeToolTip": "Fruitables\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:47:40.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Program.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Program.cs",
+              "RelativeToolTip": "Fruitables\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:24:23.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Fruitables\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:23:37.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Fruitables\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Fruitables\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:16:50.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Fruitables\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Fruitables\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:29:20.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fruitables\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwEkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:28:55.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

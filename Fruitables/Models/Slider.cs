@@ -1,6 +1,8 @@
-﻿namespace Fruitables.Models
+﻿using Fruitables.Models.Base;
+
+namespace Fruitables.Models
 {
-    public class Slider
+    public class Slider : BaseEntity
     {
         public int Id { get; set; }
         public string Title { get; set; }

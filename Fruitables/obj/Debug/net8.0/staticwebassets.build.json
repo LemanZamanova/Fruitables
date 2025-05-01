@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ln2P/D495/Qur8fGqdYp0evYLIfRFWS6QQ2IrLvk3XM=",
+  "Hash": "pG2EoBEkFn/OF+csu+NrvbCkuxuz2zNlQ7L9Mjy/Mu0=",
   "Source": "Fruitables",
   "BasePath": "_content/Fruitables",
   "Mode": "Default",
@@ -642,6 +642,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\wwwroot\\img\\download.jpg",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/download.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\download.jpg"
     },
     {
       "Identity": "C:\\Users\\LENOVA\\Desktop\\Fruitables\\Fruitables\\wwwroot\\img\\featur-1.jpg",
