@@ -11,7 +11,8 @@ namespace Fruitables
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
-                opt.UseSqlServer("server=DESKTOP-6SBB04J\\SQLEXPRESS;database=Fruitable;trusted_connection=true;integrated security=true;TrustServerCertificate=true;");
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+
             }
 
 

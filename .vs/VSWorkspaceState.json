@@ -4,7 +4,9 @@
     "\\Fruitables",
     "\\Fruitables\\Controllers",
     "\\Fruitables\\DAL",
-    "\\Fruitables\\ViewModels"
+    "\\Fruitables\\ViewModels",
+    "\\Fruitables\\Views",
+    "\\Fruitables\\Views\\Home"
   ],
   "SelectedNode": "\\Fruitables.sln",
   "PreviewInSolutionExplorer": false
